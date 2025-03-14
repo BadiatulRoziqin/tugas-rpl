@@ -1,6 +1,9 @@
 Day One
 - Menentukan kebutuhan user
 - Membuat Database
+- Menghubungkan Database
 
 Day Two
-- Menghubungkan Database
+- Membuat Dashboard
+- Membuat Halaman Login
+- Membuat koneksi ke database
