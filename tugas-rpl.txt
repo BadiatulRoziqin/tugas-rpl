@@ -7,3 +7,6 @@ Day Two
 - Membuat Dashboard
 - Membuat Halaman Login
 - Membuat koneksi ke database
+
+Day Three
+- Make A Bomb
